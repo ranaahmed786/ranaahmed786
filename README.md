@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Rana Muhammad Ahmed  
 ### _Coder with Exception_  
 
