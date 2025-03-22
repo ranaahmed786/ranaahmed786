@@ -19,13 +19,13 @@ I believe in crafting **efficient, scalable, and innovative solutions**, always 
 - **Development Areas:** Web Development, C++ Development, Data Structures & Algorithms  
 - **Exploring:** Blockchain & Generative AI  
 
----
+<!-- ---
 
 ## 📊 GitHub Stats  
 ![Rana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranamuhammadahmed&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranamuhammadahmed&layout=compact&theme=tokyonight)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranamuhammadahmed&theme=tokyo-night)  
-
+ -->
 ---
 
 ## 📫 Connect with Me  
