@@ -42,8 +42,8 @@ I thrive on solving complex problems through hands-on, project-based learning an
 
 </div >
 <div align="center">
-### Core Competencies
-
+  
+ ### Core Competencies
 | **Development** | **Technical Skills** | **Soft Skills** |
 |-----------------|---------------------|------------------|
 | Desktop Applications | Data Structures & Algorithms | Problem Solving |
