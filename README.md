@@ -76,7 +76,7 @@ Interactive piano simulator with realistic audio synthesis and multi-octave supp
 
 ---
 
-### 🗣️ [Web Orator](https://github.com/ranaahmed786/web-orator)
+### 🗣️ [Web Orator](https://github.com/ranaahmed786/TextToSpeechApp)
 **Text-to-Speech Application** | *August 2024*
 
 Accessibility-focused web application designed as a Community Service Project for individuals with speech impairments.
@@ -87,7 +87,7 @@ Accessibility-focused web application designed as a Community Service Project fo
 
 ---
 
-### 🌤️ [Weather Dashboard](https://github.com/ranaahmed786/weather-app)
+### 🌤️ [Weather Dashboard](https://github.com/ranaahmed786/Weather-Application)
 **Interactive Weather Application** | *July 2024*
 
 Dynamic weather application with real-time data integration and responsive visual design.
